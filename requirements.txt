@@ -2,9 +2,8 @@ pandas
 numpy
 streamlit
 altair
-plotly.figure_factory
-plotly.express
-matplotlib.pyplot
+plotly
+matplotlib
 Flask
 request
 render_template
